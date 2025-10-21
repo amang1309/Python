@@ -1,2 +1,2 @@
-# Python-
+# Python
 For Python Self Practice 
